@@ -33,5 +33,4 @@ opportunity to learn how Nueral Networks best learn patterns to classify images.
 50% accuracy shows the model is detecting a signal in the card images for classification.
 It is difficult to have high accuracy when there are a lot of classes, it is a good idea to use early stopping and drop out layers to prevent overfitting in model.
 If I ever turn this into an app I would like to generate fake card wear and tear and analyze card for a predicted sale price.
-![image](https://user-images.githubusercontent.com/71191401/145269395-f29be33d-ac72-4572-bdbf-8aa9c49323b6.png)
 
