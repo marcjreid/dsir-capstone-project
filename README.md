@@ -11,18 +11,6 @@ opportunity to learn how Nueral Networks best learn patterns to classify images.
 
 ---
 
-## Executive Summary
-
-
-### Contents:
-- [Data Collection](#Data-Collection) 
-- [Data Cleaning and EDA](#Data-Cleaning-and-EDA)
-- [Preprocessing and Modeling](#Preprocessing-and-Modeling)
-- [Evaluation and Conceptual Understanding](#Evaluation-and-Conceptual-Understanding)
-- [Conclusion and Reccomendations](#Conclusion-and-Reccomendations)
-
----
-
 ## Data Dictionary
 'https://api.pushshift.io/reddit/search/submission' - API used to scrape post data from reddit
 
