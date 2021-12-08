@@ -11,9 +11,9 @@ opportunity to learn how Nueral Networks best learn patterns to classify images.
 
 ---
 
-## Data Dictionary
+## Data Source
 'https://api.pushshift.io/reddit/search/submission' - API used to scrape post data from reddit
-
+'https://www.kaggle.com/lantian773030/pokemonclassification' - Kaggle dataset with centered Pokemon images.
 
 ---
 
