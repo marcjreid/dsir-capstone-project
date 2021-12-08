@@ -11,27 +11,14 @@ opportunity to learn how Nueral Networks best learn patterns to classify images.
 
 ---
 
-## Executive Summary
-
-
-### Contents:
-- [Data Collection](#Data-Collection) 
-- [Data Cleaning and EDA](#Data-Cleaning-and-EDA)
-- [Preprocessing and Modeling](#Preprocessing-and-Modeling)
-- [Evaluation and Conceptual Understanding](#Evaluation-and-Conceptual-Understanding)
-- [Conclusion and Reccomendations](#Conclusion-and-Reccomendations)
-
----
-
-## Data Dictionary
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
-|**selftext**|*object*|pulled with API|The main body of a post from reddit|
-|**title**|*object*|pulled with API|The title of a reddit post.|
+## Data Source
 'https://api.pushshift.io/reddit/search/submission' - API used to scrape post data from reddit
-
+'https://www.kaggle.com/lantian773030/pokemonclassification' - Kaggle dataset with centered Pokemon images.
 
 ---
 
 # Conclusions and Recommendations
+50% accuracy shows the model is detecting a signal in the card images for classification.
+It is difficult to have high accuracy when there are a lot of classes, it is a good idea to use early stopping and drop out layers to prevent overfitting in model.
+If I ever turn this into an app I would like to generate fake card wear and tear and analyze card for a predicted sale price.
 
