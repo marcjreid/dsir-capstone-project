@@ -23,8 +23,8 @@ from tensorflow.keras.callbacks import EarlyStopping
 
 path = './Data/PokemonData/Poke_train'
 classes = os.listdir(path)
-image_model = load_model("./poke_cnn_model.h5")
-tcg_model = load_model("./poke_tcg_model.h5")
+image_model = load_model("poke_cnn_model.h5")
+tcg_model = load_model("poke_tcg_model.h5")
 train_path = './Data/PokemonData/Poke_train'
 test_path = './Data/PokemonData/Poke_test'
 batch_size = 16
