@@ -21,12 +21,12 @@ from tensorflow.keras.layers import Flatten, Dense, Conv2D, MaxPool2D, Dropout, 
 from tensorflow.keras.applications import MobileNetV2, VGG16, InceptionV3, Xception
 from tensorflow.keras.callbacks import EarlyStopping
 
-path = '/Data/PokemonData/Poke_train'
+path = './Data/PokemonData/Poke_train'
 classes = os.listdir(path)
-image_model = load_model("/poke_cnn_model.h5")
-tcg_model = load_model("/poke_tcg_model.h5")
-train_path = '/Data/PokemonData/Poke_train'
-test_path = '/Data/PokemonData/Poke_test'
+image_model = load_model("./poke_cnn_model.h5")
+tcg_model = load_model("./poke_tcg_model.h5")
+train_path = './Data/PokemonData/Poke_train'
+test_path = './Data/PokemonData/Poke_test'
 batch_size = 16
 image_shape = (256,256,3)
 
