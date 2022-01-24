@@ -24,6 +24,9 @@ from tensorflow.keras.callbacks import EarlyStopping
 files = os.listdir(os.curdir) 
 st.write(files)
 
+directory = os.getcwd()
+st.write(directory)
+
 # path = './Data/PokemonData/Poke_train'
 # classes = os.listdir(path)
 # image_model = load_model('./poke_cnn_model.h5')
