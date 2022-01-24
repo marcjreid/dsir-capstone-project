@@ -1,6 +1,5 @@
 import streamlit as st
 from pokemontcgsdk import Card
-from simple_image_download import simple_image_download as simp
 from PIL import Image
 import requests
 from io import BytesIO
