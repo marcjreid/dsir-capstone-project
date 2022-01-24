@@ -1,4 +1,4 @@
-keras
+keras==2.6.0
 matplotlib
 numpy
 opencv-python-headless
@@ -8,4 +8,4 @@ pokemontcgsdk
 requests
 seaborn
 streamlit
-tensorflow
+tensorflow==2.6.0
