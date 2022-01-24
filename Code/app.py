@@ -29,8 +29,8 @@ directory = os.getcwd()
 
 path = './Data/PokemonData/Poke_train'
 classes = os.listdir(path)
-image_model = load_model(directory + '/poke_cnn_model')
-tcg_model = load_model(directory + '/poke_tcg_model')
+image_model = load_model('./poke_cnn_model')
+tcg_model = load_model('./poke_tcg_model')
 train_path = './Data/PokemonData/Poke_train'
 test_path = './Data/PokemonData/Poke_test'
 batch_size = 16
