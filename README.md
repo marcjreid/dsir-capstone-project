@@ -8,6 +8,7 @@ a phone or table can be cumbersome and the ability to scan an image of a card to
 how much it is worth would be very useful to players and collectors. This is also a good 
 opportunity to learn how Nueral Networks best learn patterns to classify images.
 
+Link to Streamlit app - https://share.streamlit.io/marcjreid/image-recognition-project/main/Code/app.py
 
 ---
 
