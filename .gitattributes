@@ -1,0 +1,2 @@
+/poke_tcg_model.h5 filter=lfs diff=lfs merge=lfs -text
+/poke_cnn_model.h5 filter=lfs diff=lfs merge=lfs -text
