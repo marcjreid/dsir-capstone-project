@@ -13,7 +13,7 @@ Link to Streamlit app - https://share.streamlit.io/marcjreid/image-recognition-p
 ---
 
 ## Data Source
-'https://github.com/RiddlerQ/simple_image_download - Google Image Downlaoder API used to collect Pokemon Images
+'https://github.com/RiddlerQ/simple_image_download - Google Image Downlaoder API used to collect Pokemon Images <br>
 'https://www.kaggle.com/lantian773030/pokemonclassification' - Kaggle dataset with centered Pokemon images.
 
 ---
