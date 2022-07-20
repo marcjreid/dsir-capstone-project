@@ -3,7 +3,7 @@
 
 ## Problem Statement
 The goal of my project is to find a way for card collectors to link their collection
-with their online accounts or just to store their cards electronically. Typing in Pokemonnames on 
+with their online accounts or just to store their cards electronically. Typing in Pokemon names on 
 a phone or table can be cumbersome and the ability to scan an image of a card to find out
 how much it is worth would be very useful to players and collectors. This is also a good 
 opportunity to learn how Nueral Networks best learn patterns to classify images.
